@@ -5,8 +5,8 @@
 1. Clone this repository and navigate to CLS_adaptation folder
 
    ```
-   https://github.com/Alivelei/ConvMedVQA.git
-   cd ConvMedVQA
+   https://github.com/Alivelei/PerturbationMedVQA.git
+   cd PerturbationMedVQA
    ```
 
 2. Install Package: Create conda environment
