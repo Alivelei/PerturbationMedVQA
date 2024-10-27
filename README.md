@@ -2,7 +2,7 @@
 
 ## Install
 
-1. Clone this repository and navigate to CLS_adaptation folder
+1. Clone this repository and navigate to PerturbationMedVQA folder
 
    ```
    https://github.com/Alivelei/PerturbationMedVQA.git
