@@ -12,8 +12,8 @@
 2. Install Package: Create conda environment
 
    ```python
-   conda create -n conv_medvqa python=3.8 -y
-   conda activate conv_medvqa
+   conda create -n perturbation_medvqa python=3.8 -y
+   conda activate perturbation_medvqa
    pip install --upgrade pip
    pip install -r requirements.txt
    ```
